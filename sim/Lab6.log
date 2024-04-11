@@ -1,0 +1,80 @@
+Command: /home/users5/sah6489/526L/Lab6/./simv -l Lab6.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  Oct 20 22:56 2023
+VCD+ Writer U-2023.03-SP1_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+                   0: CLOCK = 0, COUNT=  0, DATA=  0, RESET = 0, ENABLE = 1, LOAD= 0
+                   1: CLOCK = 0, COUNT=  0, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                  10: CLOCK = 1, COUNT=  1, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                  20: CLOCK = 0, COUNT=  1, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                  30: CLOCK = 1, COUNT=  2, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                  40: CLOCK = 0, COUNT=  2, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                  50: CLOCK = 1, COUNT=  3, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                  60: CLOCK = 0, COUNT=  3, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                  70: CLOCK = 1, COUNT=  4, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                  80: CLOCK = 0, COUNT=  4, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                  90: CLOCK = 1, COUNT=  5, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 100: CLOCK = 0, COUNT=  5, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 110: CLOCK = 1, COUNT=  6, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 120: CLOCK = 0, COUNT=  6, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 130: CLOCK = 1, COUNT=  7, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 140: CLOCK = 0, COUNT=  7, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 150: CLOCK = 1, COUNT=  8, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 160: CLOCK = 0, COUNT=  8, DATA=240, RESET = 1, ENABLE = 1, LOAD= 1
+                 170: CLOCK = 1, COUNT=240, DATA=240, RESET = 1, ENABLE = 1, LOAD= 1
+                 180: CLOCK = 0, COUNT=240, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 190: CLOCK = 1, COUNT=241, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 200: CLOCK = 0, COUNT=241, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 210: CLOCK = 1, COUNT=242, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 220: CLOCK = 0, COUNT=242, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 230: CLOCK = 1, COUNT=243, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 240: CLOCK = 0, COUNT=243, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 250: CLOCK = 1, COUNT=244, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 260: CLOCK = 0, COUNT=244, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 270: CLOCK = 1, COUNT=245, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 280: CLOCK = 0, COUNT=245, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 290: CLOCK = 1, COUNT=246, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 300: CLOCK = 0, COUNT=246, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 310: CLOCK = 1, COUNT=247, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 320: CLOCK = 0, COUNT=247, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 330: CLOCK = 1, COUNT=248, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 340: CLOCK = 0, COUNT=248, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 350: CLOCK = 1, COUNT=249, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 360: CLOCK = 0, COUNT=249, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 370: CLOCK = 1, COUNT=250, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 380: CLOCK = 0, COUNT=250, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 390: CLOCK = 1, COUNT=251, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 400: CLOCK = 0, COUNT=251, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 410: CLOCK = 1, COUNT=252, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 420: CLOCK = 0, COUNT=252, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 430: CLOCK = 1, COUNT=253, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 440: CLOCK = 0, COUNT=253, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 450: CLOCK = 1, COUNT=254, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 460: CLOCK = 0, COUNT=254, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 470: CLOCK = 1, COUNT=255, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 480: CLOCK = 0, COUNT=255, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 490: CLOCK = 1, COUNT=  0, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 500: CLOCK = 0, COUNT=  0, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 510: CLOCK = 1, COUNT=  1, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 520: CLOCK = 0, COUNT=  1, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 530: CLOCK = 1, COUNT=  2, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 540: CLOCK = 0, COUNT=  2, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 550: CLOCK = 1, COUNT=  3, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 560: CLOCK = 0, COUNT=  3, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 570: CLOCK = 1, COUNT=  4, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 580: CLOCK = 0, COUNT=  4, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 590: CLOCK = 1, COUNT=  5, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 600: CLOCK = 0, COUNT=  5, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 610: CLOCK = 1, COUNT=  6, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 620: CLOCK = 0, COUNT=  6, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 630: CLOCK = 1, COUNT=  7, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 640: CLOCK = 0, COUNT=  7, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 650: CLOCK = 1, COUNT=  8, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 660: CLOCK = 0, COUNT=  8, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+                 670: CLOCK = 1, COUNT=  9, DATA=  0, RESET = 1, ENABLE = 1, LOAD= 0
+$finish called from file "counter_tb.v", line 47.
+$finish at simulation time                  680
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 680 ns
+CPU Time:      0.180 seconds;       Data structure size:   0.0Mb
+Fri Oct 20 22:56:47 2023
